@@ -1,0 +1,24 @@
+{
+  "id": "hotel-0304f8eb-83a0-455d-89b0-59c77a4351d2",
+  "slug": "test-hotel",
+  "images": [],
+  "title": "Test Hotel",
+  "description": "Another test hotel",
+  "guestCount": 4,
+  "bedroomCount": 2,
+  "bathroomCount": 2,
+  "amenities": [
+    "wifi",
+    "parking"
+  ],
+  "host": {
+    "name": "John Doe",
+    "email": "john@example.com"
+  },
+  "address": "123 Test Street",
+  "location": {
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  "rooms": []
+}
